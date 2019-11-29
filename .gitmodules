@@ -1,0 +1,6 @@
+[submodule "lib/JoUtils"]
+	path = lib/JoUtils
+	url = https://github.com/jo-huck/joUtils.git
+[submodule "lib/microBox"]
+	path = lib/microBox
+	url = https://github.com/jo-huck/microBox.git
